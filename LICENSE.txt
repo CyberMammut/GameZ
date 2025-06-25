@@ -1,0 +1,20 @@
+Copyright (c) 2025 [Your Name or Alias]
+
+All rights reserved.
+
+The ZIP file provided in this repository and all its contents (including game code, assets, graphics, audio, and documentation) are protected by copyright.
+
+Downloading and testing the ZIP file is permitted for personal use or evaluation purposes only (e.g., by educators, collaborators, or potential employers).
+
+Any other use — including but not limited to:
+- redistribution,
+- sharing with third parties,
+- modification or reverse engineering,
+- integration into other projects,
+- or any form of commercial use
+
+is **strictly prohibited** without the **explicit written permission** of the author.
+
+Unauthorized use will be prosecuted under applicable copyright laws.
+
+Contact: [Your email address or GitHub profile link]
