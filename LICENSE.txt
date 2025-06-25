@@ -1,4 +1,4 @@
-Copyright (c) 2025 [Your Name or Alias]
+Copyright (c) 2025 CyberMammut
 
 All rights reserved.
 
@@ -17,4 +17,4 @@ is **strictly prohibited** without the **explicit written permission** of the au
 
 Unauthorized use will be prosecuted under applicable copyright laws.
 
-Contact: [Your email address or GitHub profile link]
+Contact: andreas.toepfer@me.com
